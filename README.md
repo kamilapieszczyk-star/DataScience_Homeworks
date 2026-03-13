@@ -1,1 +1,1 @@
-# DataScience_Homeworks
+# DataScience_Homeworks Projekt z kursu Data Science
