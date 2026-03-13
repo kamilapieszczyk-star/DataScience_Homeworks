@@ -3,3 +3,5 @@
 data - dane
 notebooks - notebooki
 src - kod
+## Autor
+Kamila
