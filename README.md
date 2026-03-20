@@ -1,9 +1,15 @@
-# DataScience_Homeworks Projekt z kursu Data Science
-## Struktura projektu
-data - dane
-notebooks - notebooki
-src - kod
-## Autor
-Kamila
-## Diff example
-Test zmian w README
+# Data Science Homeworks
+
+Repozytorium zawiera rozwiazania zadan domowych z kursu Data Science.
+
+## Struktura
+- src/homework - rozwiazania zadan
+- notebooks - analiza i eksperymenty
+- data - dane
+
+## Technologie
+- Python
+- numpy
+- pandas
+- matplotlib
+- uv
